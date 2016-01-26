@@ -2,7 +2,7 @@
 html,body{
     margin:auto;
     padding:0;
-    width:100%%;
+    width:100%;
 }
 .nav nav {
     text-align: right;
@@ -20,4 +20,7 @@ h1 p{
 }
 #space2{
     height:10px;
+}
+#space3{
+    height:50px;
 }
