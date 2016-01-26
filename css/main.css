@@ -1,6 +1,12 @@
  /*Css file*/
+html,body{
+    margin:auto;
+}
 .nav{
     text-align:right;
     color: white;
     font-size: 15px;
+}
+.class{
+    background-image: url("../assets/backgrounds/hero.jpg");
 }
