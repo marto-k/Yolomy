@@ -1,12 +1,12 @@
  /*Css file*/
 html,body{
     margin:auto;
+    padding:0;
+    width:95%;
 }
-.nav{
-    text-align:right;
-    color: white;
-    font-size: 15px;
+.nav nav {
+    text-align: right;
 }
-.class{
+.background{
     background-image: url("../assets/backgrounds/hero.jpg");
 }
