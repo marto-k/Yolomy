@@ -2,11 +2,22 @@
 html,body{
     margin:auto;
     padding:0;
-    width:95%;
+    width:100%%;
 }
 .nav nav {
     text-align: right;
 }
 .background{
     background-image: url("../assets/backgrounds/hero.jpg");
+    height: inherit;
+}
+h1 p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+#space1{
+    height:210px;
+}
+#space2{
+    height:10px;
 }
