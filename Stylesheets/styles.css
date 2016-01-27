@@ -40,3 +40,13 @@ nav a:hover{
     background-color: darkkhaki;
     height:60px;
 }
+div a{
+  text-decoration:none;
+}
+#men-women{
+  margin:auto;
+  width:90%;
+}
+.about{
+   background-image: url("../assets/backgrounds/about.jpg");
+}
