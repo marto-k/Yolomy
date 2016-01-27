@@ -24,3 +24,19 @@ h1 p{
 #space3{
     height:50px;
 }
+nav{
+
+}
+ nav a{
+    color: aliceblue;
+    padding-left: 40px;
+     text-decoration: none;
+}
+nav a:hover{
+    
+}
+.product-selection{
+    width:100%;
+    background-color: darkkhaki;
+    height:60px;
+}
