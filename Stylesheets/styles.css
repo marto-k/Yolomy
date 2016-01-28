@@ -56,6 +56,7 @@ div a{
 .about{
    background-image: url("../assets/backgrounds/about.jpg");
    color:#ffffff;
+   height:60%;
    background-size:100%;
 }
 #contacts table a{
