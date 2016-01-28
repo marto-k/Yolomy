@@ -55,4 +55,6 @@ div a{
 }
 .about{
    background-image: url("../assets/backgrounds/about.jpg");
+   color:#ffffff;
+   background-size:100%;
 }
