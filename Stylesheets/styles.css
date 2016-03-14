@@ -38,6 +38,24 @@ nav{
     padding-left: 40px;
      text-decoration: none;
 }
+
+
+
+#menu ul    ul{
+  display:block;
+	color:#808080;
+	text-decoration:none;
+	font-weight:700;
+	font-size:12px;
+	line-height:32px;
+	padding:0 15px;
+}
+
+
+
+
+
+
 nav a:hover{
     
 }
